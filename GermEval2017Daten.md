@@ -11,4 +11,7 @@ Genaue Beschreibung hier:
  
   https://sites.google.com/view/germeval2017-absa/data?authuser=0
   
+ Ein gecleanter Datensatz liegt in diesem repository als: GermEval2017clean.csv
+ 
+  
   
